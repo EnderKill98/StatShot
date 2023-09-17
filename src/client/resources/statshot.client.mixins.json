@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "me.enderkill98.statshot.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "ScreenTitleAccessor",
+    "StatisticReceiveListener",
+    "StatisticsScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
