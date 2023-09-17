@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# StatShot
 
-## Setup
+A quick and dirty mod to enable saving your Statistics on Servers.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+It automatically saves your Stats at least once per day, but you can create your own as well.
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+You can then choose to view those saved stats from the stat snapshots menu.
